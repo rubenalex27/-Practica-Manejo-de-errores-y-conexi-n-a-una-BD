@@ -1,0 +1,1 @@
+# -Practica-Manejo-de-errores-y-conexi-n-a-una-BD
