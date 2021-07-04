@@ -1,1 +1,1 @@
-# -Practica-Manejo-de-errores-y-conexi-n-a-una-BD
+# -Practica-Manejo-de-errores-y-conexion-a-una-BD
